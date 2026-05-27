@@ -38,7 +38,7 @@ gantt
 
 ## Leyenda
 
-- ✅  Completado
-- 🔵 En progreso
-- ⚪ Pendiente
-- 🎯 Hito
+- ✅ `:done` — Completado
+- 🔵 `:active` — En progreso
+- ⚪ sin estado — Pendiente
+- 🎯 `:milestone` — Hito
